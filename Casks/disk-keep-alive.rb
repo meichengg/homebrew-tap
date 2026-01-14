@@ -1,6 +1,6 @@
 cask "disk-keep-alive" do
-  version "1.0.0"
-  sha256 "586e62e8717299924e5fae04f1d9bfbbf95b5409a27b7329be9ead5a0e3a872f"
+  version "1.1.0"
+  sha256 "4f4a09acf9a0219975ca64c25c05468d79e15c3ec3771397cc56a7674dc8f6a0"
 
   url "https://github.com/meichengg/disk-keep-alive/releases/download/v#{version}/DiskKeepAlive-#{version}.dmg"
   name "Disk Keep Alive"
